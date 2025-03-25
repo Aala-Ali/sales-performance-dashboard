@@ -4,6 +4,7 @@ Power BI dashboard analyzing sales, profit, and order trends by store, category,
 ## 📊 Overview
 
 This Power BI dashboard provides a comprehensive overview of sales performance across different stores and product categories.
+![Sales Dashboard](sales_dashboard.png)
 
 ### Key Metrics
 - **Total Number of Orders:** 1500
